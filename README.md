@@ -1,5 +1,11 @@
 ## Required installation
 
+- Neovim installation
+
+  ```
+  brew install neovim
+  ```
+
 - Neovim python support
 
   ```
