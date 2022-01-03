@@ -5,6 +5,13 @@
   ```
   brew install neovim
   ```
+- Config files setup (MacOS)
+
+  ```
+  mkdir ~/.config/nvim
+  cd ~/.config/nvim
+  git clone https://github.com/MatteoScorcia/NeoVim.git
+  ```
 
 - Neovim python support
 
