@@ -63,6 +63,10 @@ return packer.startup(function(use)
   -- Colorschemes
   use "lunarvim/darkplus.nvim"
   use "fratajczak/one-monokai-vim"
+  use 'rmehri01/onenord.nvim'
+  use 'sainnhe/gruvbox-material'
+  use 'ishan9299/nvim-solarized-lua'
+  use 'shaunsingh/nord.nvim'
 
   -- cmp plugins
   use "hrsh7th/nvim-cmp" -- The completion plugin
@@ -93,6 +97,9 @@ return packer.startup(function(use)
 
   -- Git
   use "lewis6991/gitsigns.nvim"
+
+  -- Zen Mode
+  use "Pocco81/TrueZen.nvim"
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins

@@ -84,6 +84,11 @@ _G.packer_plugins = {
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["TrueZen.nvim"] = {
+    loaded = true,
+    path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/TrueZen.nvim",
+    url = "https://github.com/Pocco81/TrueZen.nvim"
+  },
   ["alpha-nvim"] = {
     loaded = true,
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/alpha-nvim",
@@ -134,6 +139,11 @@ _G.packer_plugins = {
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
   },
+  ["gruvbox-material"] = {
+    loaded = true,
+    path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/gruvbox-material",
+    url = "https://github.com/sainnhe/gruvbox-material"
+  },
   ["impatient.nvim"] = {
     loaded = true,
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/impatient.nvim",
@@ -153,6 +163,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/nlsp-settings.nvim",
     url = "https://github.com/tamago324/nlsp-settings.nvim"
+  },
+  ["nord.nvim"] = {
+    loaded = true,
+    path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/nord.nvim",
+    url = "https://github.com/shaunsingh/nord.nvim"
   },
   ["null-ls.nvim"] = {
     loaded = true,
@@ -179,6 +194,11 @@ _G.packer_plugins = {
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
     url = "https://github.com/neovim/nvim-lspconfig"
   },
+  ["nvim-solarized-lua"] = {
+    loaded = true,
+    path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/nvim-solarized-lua",
+    url = "https://github.com/ishan9299/nvim-solarized-lua"
+  },
   ["nvim-tree.lua"] = {
     loaded = true,
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
@@ -203,6 +223,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/one-monokai-vim",
     url = "https://github.com/fratajczak/one-monokai-vim"
+  },
+  ["onenord.nvim"] = {
+    loaded = true,
+    path = "/Users/matteo/.local/share/nvim/site/pack/packer/start/onenord.nvim",
+    url = "https://github.com/rmehri01/onenord.nvim"
   },
   ["packer.nvim"] = {
     loaded = true,

@@ -170,7 +170,6 @@ local mappings = {
     k = { "<cmd>Telescope keymaps<cr>", "Keymaps" },
     C = { "<cmd>Telescope commands<cr>", "Commands" },
   },
-
   t = {
     name = "Terminal",
     n = { "<cmd>lua _NODE_TOGGLE()<cr>", "Node" },
@@ -181,6 +180,12 @@ local mappings = {
     h = { "<cmd>ToggleTerm size=10 direction=horizontal<cr>", "Horizontal" },
     v = { "<cmd>ToggleTerm size=80 direction=vertical<cr>", "Vertical" },
   },
+  z = {
+    name = "Zen Mode",
+    a = {"<cmd>TZAtaraxis<cr>", "Toggle Ataraxis Mode"},
+    m = {"<cmd>TZMinimalist<cr>", "Toggle Minimalist Mode"},
+    f = {"<cmd>TZFocus<cr>", "Toggle Focus Mode"},
+  }
 }
 
 which_key.setup(setup)
